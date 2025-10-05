@@ -582,3 +582,4 @@ yeahmobi.com, 5135315, RESELLER
 yeahmobi.com, 5135535, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
 yieldnexus.com, 96204, RESELLER
+google.com, pub-8638226147800489, DIRECT, f08c47fec0942fa0
